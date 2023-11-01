@@ -1,0 +1,15 @@
+#app{
+    background-color: rgb(7, 30, 90);
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#game{
+    background-color: aquamarine;
+}
+#Chatbot{
+    background-color: navy;
+}
